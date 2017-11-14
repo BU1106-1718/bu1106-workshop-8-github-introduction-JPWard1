@@ -48,7 +48,7 @@ Once you are done be sure to commit your changes (that will save them to the rep
 How many _Pages_ and how many _Content Pages_ are in our KMS (BU1106 Wiki)?
 `Hint: You can use one of the _Special Pages_ to find out. `
 
-**Answer:** Replace this text with your answer.
+**Answer:** There are 168 pages and 23 content pages in our KMS (BU1106 Wiki).
 
 
 #### Question 2
